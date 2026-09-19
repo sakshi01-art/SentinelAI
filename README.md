@@ -19,6 +19,16 @@
 
 > 🔐 **Build defensive software. Learn security concepts. Understand the signal.**
 
+## 🎨 Project Visual
+
+<p align="center">
+  <img src="./assets/project-draw.svg" alt="SentinelAI security monitoring architecture" width="100%" />
+</p>
+
+> **Visual:** Security events → analysis → risk & alerts → dashboard.
+
+---
+
 ## ✨ Key Ideas
 
 - 📊 Security event dashboard
