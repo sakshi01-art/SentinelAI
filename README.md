@@ -123,3 +123,12 @@ This project is intended for **education and defensive security learning**. Use 
 ⭐ **Follow SentinelAI as it grows!**
 
 </div>
+
+
+---
+
+## 🔥 Latest Update — 20 September 2026
+
+- Refreshed the project documentation and presentation.
+- Kept the architecture and development roadmap clear for future modules.
+- Continuing practical implementation and incremental improvements.
