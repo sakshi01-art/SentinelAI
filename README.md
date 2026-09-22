@@ -132,3 +132,11 @@ This project is intended for **education and defensive security learning**. Use 
 - Refreshed the project documentation and presentation.
 - Kept the architecture and development roadmap clear for future modules.
 - Continuing practical implementation and incremental improvements.
+
+
+## 🔥 Latest Update — 22 September 2026
+
+- Added defensive design notes under `docs/`.
+- Clarified the event-to-insight workflow and responsible monitoring principles.
+- Next focus: event-analysis implementation, fixtures, dashboard integration, and automated checks.
+
