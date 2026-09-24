@@ -145,3 +145,11 @@ This project is intended for **education and defensive security learning**. Use 
 - Clarified the defensive monitoring flow from event collection to understandable alerts.
 - Kept the project focused on authorized, educational monitoring.
 - Refined the roadmap around testing, dashboard integration, and event analysis.
+
+---
+
+## 🚀 Development Update — 24 September 2026
+
+- Refined the defensive monitoring roadmap for the next implementation phase.
+- Added clearer checkpoints for event parsing, alert validation, dashboard work, and tests.
+- Kept responsible-use boundaries visible alongside the technical roadmap.
