@@ -153,3 +153,11 @@ This project is intended for **education and defensive security learning**. Use 
 - Refined the defensive monitoring roadmap for the next implementation phase.
 - Added clearer checkpoints for event parsing, alert validation, dashboard work, and tests.
 - Kept responsible-use boundaries visible alongside the technical roadmap.
+
+---
+
+## ✨ Development Update — 26 September 2026
+
+- Refreshed the project documentation for the latest development stage.
+- Kept the roadmap focused on practical implementation, testing, and continuous improvement.
+- Updated the project progress section so the repository stays current and easy to review.
